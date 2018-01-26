@@ -1,0 +1,14 @@
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\DataAccess.dll
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\obj\Debug\DataAccess.dll
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\obj\Debug\DataAccess.pdb
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\FluentNHibernate.dll
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\Iesi.Collections.dll
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\Model.dll
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\NHibernate.dll
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\Model.pdb
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\FluentNHibernate.pdb
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\FluentNHibernate.xml
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\Iesi.Collections.xml
+D:\Lucky\Me\P\L.Sam1.Web\WebApplication1\DataAccess\bin\Debug\NHibernate.xml
